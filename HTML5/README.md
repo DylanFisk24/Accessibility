@@ -18,5 +18,9 @@ For the video accessibility part of this project, my classmates and I were split
 
 As a team, we focused on coming up with a functional definition of closed captions and explaining how important they are to ensuring videos are accessible, especially for those with auditory disabilities. We also made a brief timeline to highlight the development of closed captions into the widely available feature they are today. Finally, we developed some instructional modules to guide users through the process of adding and editing closed captions on Clipchamp, Microsoft's video recording/editing software.
 
+We decided to split up the workload based on the content pages. Jane focused on the definition and importance of closed captions. Zoe created the timeline displaying the history of closed captions. I documented Clipchamp and created the step-by-step instructional pages on adding and editing closed captions.
+
 ### Tools and Concepts
-In the making of this website, I utilized MadCap Flare's XML and HTML Text Editor tools to put together 
+In the making of this website, I utilized MadCap Flare's XML and HTML Text Editor tools to put together the topic pages. I also documented Clipchamp using Google Docs before moving the content into MadCap Flare.
+
+## Top 3 Takeaways
