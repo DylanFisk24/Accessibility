@@ -1,0 +1,1 @@
+define({r:0.5,st:'Stem',n:1,t:[0],m:[],u:['../Content/About-This-Project.htm'],s:['+','inhibit','usabl'],p:[['+',0],['beyond',3],['disabled',22],['in',2],['october',9],['select',12],['to',24]]});
