@@ -1,0 +1,19 @@
+/*<meta />*/
+
+/* MadCap-Branding applanguage:Templates/Projects/Online & Print/Side Navigation and PDF/ */
+
+:root
+{
+	--Dark: #45494C;
+	--Darkest: #000000;
+	--Light: #DADEE1;
+	--Lightest: #FFFFFF;
+	--Medium: #A4AAAE;
+	--FontFamily: Arial, Avenir, Myriad;
+	--HeroImage: url('../Images/WebHeroImage.jpg');
+	--LogoImage: url('../Images/FlareLogoDraft-03.png');
+	--LogoImagePrint: url('../Images/FlareLogoDraft-03.png');
+	--Primary: #850781;
+	--Secondary: #e6cde7;
+}
+
