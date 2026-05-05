@@ -1,1 +1,0 @@
-define({r:0.5,st:'Stem',n:1,t:[0],m:[],u:['../Content/C-Procedure-Topics/Procedure1.htm'],s:['03'],p:[['03',3],['individual',7],['video',3]]});
