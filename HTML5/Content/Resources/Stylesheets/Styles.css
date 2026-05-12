@@ -5,7 +5,7 @@
 body
 {
 	color: #45494C;
-	font-family: Arial, Avenir, Myriad;
+	font-family: Verdana;
 }
 
 .body-container
@@ -129,6 +129,7 @@ MadCap|tocProxy
 {
 	border-top: none;
 	margin-right: 0.25in;
+	line-height: 18pt;
 }
 
 p.created-using-flare
@@ -168,34 +169,36 @@ p.title-page-url
 p.TOC1
 {
 	color: #45494C;
-	font-size: 19pt;
 	font-weight: normal;
-	line-height: 21pt;
 	margin-bottom: 15px;
 	margin-top: 15px;
 	page-break-after: avoid;
+	font-size: 16pt;
+	padding-bottom: 2px;
+	line-spacing: inherit;
+	line-height: 21pt;
 }
 
 p.TOC2
 {
 	color: #45494C;
-	font-size: 15pt;
 	font-weight: normal;
 	line-height: 21pt;
 	margin-bottom: 13px;
 	margin-left: .5in;
 	margin-top: 13px;
+	font-size: 14pt;
 }
 
 p.TOC3
 {
 	color: #45494C;
-	font-size: 13pt;
 	line-height: 21pt;
 	font-weight: normal;
 	margin-bottom: 10px;
 	margin-left: 1in;
 	margin-top: 10px;
+	font-size: 12pt;
 }
 
 /* Headings */
@@ -218,6 +221,7 @@ h3
 {
 	font-weight: bold;
 	font-size: 14.0pt;
+	mc-heading-level: 0;
 }
 
 h4
@@ -790,5 +794,24 @@ p.footer-sub
 		mc-format: '{quote}{para}{quote} {pageref}';
 		text-decoration: none;
 	}
+}
+
+p.PageBreakFix
+{
+	font-size: 12.0pt;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	line-height: 20pt;
+	letter-spacing: 0.25px;
+	widows: 3;
+	orphans: 3;
+	page-break-after: avoid;
+}
+
+li.PageBreakFix
+{
+	margin-bottom: 8px;
+	margin-top: 8px;
+	page-break-inside: avoid;
 }
 
